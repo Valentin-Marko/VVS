@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace proiectDobre.Controllers
 {
     [ApiController]
-    [Route("eduard")]
+    [Route("bogdan")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
